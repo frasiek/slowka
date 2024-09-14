@@ -1,0 +1,23 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "SŁÓWKA",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "SŁÓWKA",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/favicon.ico"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "id": "slowka.frasiek.com",
+  "description": "Powtarzanie słówek po angielsku",
+  "lang": "pl"
+}

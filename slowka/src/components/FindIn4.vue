@@ -89,8 +89,8 @@ export default {
     </div>
     <div class="container text-center mt-5">
       <div class="row">
-        <div class="col" v-for="anwser in anwsers">
-          <a href="#" class="btn btn-primary p-5 w-100" @click="markAnswer(anwser)">{{ anwser }}</a>
+        <div class="col col-6 mt-4" v-for="anwser in anwsers">
+          <a href="#" class="btn btn-primary w-100" @click="markAnswer(anwser)">{{ anwser }}</a>
         </div>
       </div>
     </div>
@@ -102,5 +102,8 @@ h1 {
   font-size: 3em;
   text-align: center;
   margin-top: 10vh;
+}
+.btn {
+  font-size: 18px;
 }
 </style>

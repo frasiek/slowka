@@ -69,7 +69,7 @@ export default {
           <input type="text" class="form-control" v-model="postedAnwser" @keyup.enter="post()"/>
         </div>
         <div class="col">
-          <span class="btn btn-success">sprawdź</span>
+          <span class="btn btn-success" @click="post()">sprawdź</span>
         </div>
       </div>
     </div>

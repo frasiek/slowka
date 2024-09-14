@@ -65,7 +65,7 @@ export default {
     <write-in lang="pl" v-if="method=='plw'"/>
     <write-in lang="en" v-if="method=='enw'"/>
 
-    <div id="status" class="m-5" v-if="msg != null">
+    <div id="status" v-if="msg != null">
       <h2 class="alert text-center" :class="'alert-'+msgClass">
         {{msg}}
       </h2>
@@ -80,4 +80,11 @@ export default {
 </template>
 
 <style scoped>
+#status {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+}
 </style>
