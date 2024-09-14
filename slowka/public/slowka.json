@@ -1,0 +1,162 @@
+[
+  {
+    "pl" : "kot",
+    "en" : "cat"
+  },
+  {
+    "en" : "pen",
+    "pl" : "długopis"
+  },
+  {
+    "pl" : "pies",
+    "en" : "dog"
+  },
+  {
+    "pl" : "gumka do mazania",
+    "en" : "rubber"
+  },
+  {
+    "pl" : "klej",
+    "en" : "glue"
+  },
+  {
+    "pl" : "ołówek",
+    "en" : "pencil"
+  },
+  {
+    "pl" : "linijka",
+    "en" : "ruler"
+  },
+  {
+    "pl" : "pędzel do malowania",
+    "en" : "paint brush"
+  },
+  {
+    "en" : "pancil case",
+    "pl" : "piórnik"
+  },
+  {
+    "en": "school",
+    "pl": "szkoła"
+  },
+  {
+    "en" : "table",
+    "pl" : "stół"
+  },
+  {
+    "en" : "numbers",
+    "pl" : "liczby"
+  },
+  {
+    "en" : "bus",
+    "pl" : "autobus"
+  },
+  {
+    "en" : "chair",
+    "pl" : "krzesło"
+  },
+  {
+    "en" : "shapes",
+    "pl" : "kształty"
+  },
+  {
+    "en" : "backpack",
+    "pl" : "plecak"
+  },
+  {
+    "en" : "desk",
+    "pl" : "biurko"
+  },
+  {
+    "en" : "climber",
+    "pl" : "wspinacz"
+  },
+  {
+    "en" : "children",
+    "pl" : "dzieci"
+  },
+  {
+    "en" : "toys",
+    "pl" : "zabawki"
+  },
+  {
+    "en" : "slide",
+    "pl" : "zjeżdżalnia"
+  },
+  {
+    "en" : "teacher",
+    "pl" : "nauczyciel"
+  },
+  {
+    "en" : "blocks",
+    "pl" : "klocki"
+  },
+  {
+    "en" : "swings",
+    "pl" : "huśtawki"
+  },
+  {
+    "en" : "books",
+    "pl" : "książki"
+  },
+  {
+    "en" : "puzzle",
+    "pl" : "puzzle"
+  },
+  {
+    "en" : "ball",
+    "pl" : "piłka"
+  },
+  {
+    "en" : "scissors",
+    "pl" : "nożyczki"
+  },
+  {
+    "en" : "play dough",
+    "pl" : "plastelina"
+  },
+  {
+    "en" : "lunchbox",
+    "pl" : "śniadaniówka"
+  },
+  {
+    "en" : "crayons",
+    "pl" : "kredki"
+  },
+  {
+    "en" : "easel",
+    "pl" : "tablica"
+  },
+  {
+    "en" : "sandwich",
+    "pl" : "kanapka"
+  },
+  {
+    "en" : "glue",
+    "pl" : "klej"
+  },
+  {
+    "en" : "paint",
+    "pl" : "farba"
+  },
+  {
+    "en" : "tablet",
+    "pl" : "tablet"
+  },
+  {
+    "en" : "markers",
+    "pl" : "markery"
+  },
+  {
+    "en" : "computer",
+    "pl" : "komputer"
+  },
+  {
+    "en" : "paper",
+    "pl" : "papier"
+  },
+  {
+    "en" : "letters",
+    "pl" : "litery"
+  }
+]
