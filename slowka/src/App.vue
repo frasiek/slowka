@@ -50,11 +50,11 @@ export default {
           angielski</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" :class="{active: method=='en'}" aria-current="page" href="#" @click="changeView('plw')">wpisz
+        <a class="nav-link" :class="{active: method=='plw'}" aria-current="page" href="#" @click="changeView('plw')">wpisz
           polski</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" :class="{active: method=='en'}" aria-current="page" href="#" @click="changeView('enw')">wpis
+        <a class="nav-link" :class="{active: method=='enw'}" aria-current="page" href="#" @click="changeView('enw')">wpis
           angielski</a>
       </li>
     </ul>
