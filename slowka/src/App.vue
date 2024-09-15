@@ -82,7 +82,7 @@ export default {
 <style scoped>
 #status {
   position: absolute;
-  top: 0;
+  top: calc(50vh - 40px);
   left: 0;
   right: 0;
   width: 100%;
