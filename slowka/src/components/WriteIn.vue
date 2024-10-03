@@ -41,7 +41,7 @@ export default {
 
     },
     post() {
-      if (this.postedAnwser === this.correct) {
+      if (this.postedAnwser.toLowerCase() === this.correct.toLowerCase()) {
         this.$parent.addPoint(5);
         this.$parent.showAlert('success', 'Dobrze!');
       } else {

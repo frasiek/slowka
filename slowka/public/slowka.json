@@ -1,162 +1,212 @@
 [
-  {
-    "pl" : "kot",
-    "en" : "cat"
-  },
-  {
-    "en" : "pen",
-    "pl" : "długopis"
-  },
-  {
-    "pl" : "pies",
-    "en" : "dog"
-  },
-  {
-    "pl" : "gumka do mazania",
-    "en" : "rubber"
-  },
-  {
-    "pl" : "klej",
-    "en" : "glue"
-  },
-  {
-    "pl" : "ołówek",
-    "en" : "pencil"
-  },
-  {
-    "pl" : "linijka",
-    "en" : "ruler"
-  },
-  {
-    "pl" : "pędzel do malowania",
-    "en" : "paint brush"
-  },
-  {
-    "en" : "pancil case",
-    "pl" : "piórnik"
-  },
-  {
-    "en": "school",
-    "pl": "szkoła"
-  },
-  {
-    "en" : "table",
-    "pl" : "stół"
-  },
-  {
-    "en" : "numbers",
-    "pl" : "liczby"
-  },
-  {
-    "en" : "bus",
-    "pl" : "autobus"
-  },
-  {
-    "en" : "chair",
-    "pl" : "krzesło"
-  },
-  {
-    "en" : "shapes",
-    "pl" : "kształty"
-  },
-  {
-    "en" : "backpack",
-    "pl" : "plecak"
-  },
-  {
-    "en" : "desk",
-    "pl" : "biurko"
-  },
-  {
-    "en" : "climber",
-    "pl" : "wspinacz"
-  },
-  {
-    "en" : "children",
-    "pl" : "dzieci"
-  },
-  {
-    "en" : "toys",
-    "pl" : "zabawki"
-  },
-  {
-    "en" : "slide",
-    "pl" : "zjeżdżalnia"
-  },
-  {
-    "en" : "teacher",
-    "pl" : "nauczyciel"
-  },
-  {
-    "en" : "blocks",
-    "pl" : "klocki"
-  },
-  {
-    "en" : "swings",
-    "pl" : "huśtawki"
-  },
-  {
-    "en" : "books",
-    "pl" : "książki"
-  },
-  {
-    "en" : "puzzle",
-    "pl" : "puzzle"
-  },
-  {
-    "en" : "ball",
-    "pl" : "piłka"
-  },
-  {
-    "en" : "scissors",
-    "pl" : "nożyczki"
-  },
-  {
-    "en" : "play dough",
-    "pl" : "plastelina"
-  },
-  {
-    "en" : "lunchbox",
-    "pl" : "śniadaniówka"
-  },
-  {
-    "en" : "crayons",
-    "pl" : "kredki"
-  },
-  {
-    "en" : "easel",
-    "pl" : "tablica"
-  },
-  {
-    "en" : "sandwich",
-    "pl" : "kanapka"
-  },
-  {
-    "en" : "glue",
-    "pl" : "klej"
-  },
-  {
-    "en" : "paint",
-    "pl" : "farba"
-  },
-  {
-    "en" : "tablet",
-    "pl" : "tablet"
-  },
-  {
-    "en" : "markers",
-    "pl" : "markery"
-  },
-  {
-    "en" : "computer",
-    "pl" : "komputer"
-  },
-  {
-    "en" : "paper",
-    "pl" : "papier"
-  },
-  {
-    "en" : "letters",
-    "pl" : "litery"
-  }
+  {"pl":"kot", "en":"cat"},
+  {"pl":"długopis", "en":"pen"},
+  {"pl":"pies", "en":"dog"},
+  {"pl":"gumka do mazania", "en":"rubber"},
+  {"pl":"klej", "en":"glue"},
+  {"pl":"ołówek", "en":"pencil"},
+  {"pl":"linijka", "en":"ruler"},
+  {"pl":"pędzel do malowania", "en":"paint brush"},
+  {"pl":"piórnik", "en":"pancil case"},
+  {"pl":"szkoła", "en":"school"},
+  {"pl":"stół", "en":"table"},
+  {"pl":"liczby", "en":"numbers"},
+  {"pl":"autobus", "en":"bus"},
+  {"pl":"krzesło", "en":"chair"},
+  {"pl":"kształty", "en":"shapes"},
+  {"pl":"plecak", "en":"backpack"},
+  {"pl":"biurko", "en":"desk"},
+  {"pl":"wspinacz", "en":"climber"},
+  {"pl":"dzieci", "en":"children"},
+  {"pl":"zabawki", "en":"toys"},
+  {"pl":"zjeżdżalnia", "en":"slide"},
+  {"pl":"nauczyciel", "en":"teacher"},
+  {"pl":"klocki", "en":"blocks"},
+  {"pl":"huśtawki", "en":"swings"},
+  {"pl":"książki", "en":"books"},
+  {"pl":"puzzle", "en":"puzzle"},
+  {"pl":"piłka", "en":"ball"},
+  {"pl":"nożyczki", "en":"scissors"},
+  {"pl":"plastelina", "en":"play dough"},
+  {"pl":"śniadaniówka", "en":"lunchbox"},
+  {"pl":"kredki", "en":"crayons"},
+  {"pl":"sztaluga", "en":"easel"},
+  {"pl":"kanapka", "en":"sandwich"},
+  {"pl":"klej", "en":"glue"},
+  {"pl":"farba", "en":"paint"},
+  {"pl":"tablet", "en":"tablet"},
+  {"pl":"markery", "en":"markers"},
+  {"pl":"komputer", "en":"computer"},
+  {"pl":"papier", "en":"paper"},
+  {"pl":"litery", "en":"letters"},
+  {"pl":"monday", "en":"poniedziałek"},
+  {"pl":"tuesday", "en":"wtorek"},
+  {"pl":"wednesday", "en":"środa"},
+  {"pl":"thursday", "en":"czwartek"},
+  {"pl":"friday", "en":"piątek"},
+  {"pl":"saturday", "en":"sobota"},
+  {"pl":"sunday", "en":"niedziela"},
+  {"pl":"january", "en":"styczeń"},
+  {"pl":"february", "en":"luty"},
+  {"pl":"march", "en":"marzec"},
+  {"pl":"april", "en":"kwiecień"},
+  {"pl":"may", "en":"maj"},
+  {"pl":"june", "en":"czerwiec"},
+  {"pl":"july", "en":"lipiec"},
+  {"pl":"august", "en":"sierpień"},
+  {"pl":"september", "en":"wrzesień"},
+  {"pl":"october", "en":"październik"},
+  {"pl":"november", "en":"listopad"},
+  {"pl":"december", "en":"grudzień"},
+  {"pl":"spring", "en":"wiosna"},
+  {"pl":"summer", "en":"lato"},
+  {"pl":"autumn", "en":"jesień"},
+  {"pl":"fall", "en":"jesień"},
+  {"pl":"winter", "en":"zima"},
+  {"pl":"zero", "en":"zero"},
+  {"pl":"one", "en":"jeden"},
+  {"pl":"two", "en":"dwa"},
+  {"pl":"three", "en":"trzy"},
+  {"pl":"four", "en":"cztery"},
+  {"pl":"five", "en":"pięć"},
+  {"pl":"six", "en":"sześć"},
+  {"pl":"seven", "en":"siedem"},
+  {"pl":"eight", "en":"osiem"},
+  {"pl":"nine", "en":"dziewięć"},
+  {"pl":"ten", "en":"dziesięć"},
+  {"pl":"eleven", "en":"jedenaście"},
+  {"pl":"twelve", "en":"dwanaście"},
+  {"pl":"thirteen", "en":"trzynaście"},
+  {"pl":"fourteen", "en":"czternaście"},
+  {"pl":"fifteen", "en":"piętnaście"},
+  {"pl":"sixteen", "en":"szesnaście"},
+  {"pl":"seventeen", "en":"siedemnaście"},
+  {"pl":"eighteen", "en":"osiemnaście"},
+  {"pl":"nineteen", "en":"dziewiętnaście"},
+  {"pl":"twenty", "en":"dwadzieścia"},
+  {"pl":"twenty-one", "en":"dwadzieścia jeden"},
+  {"pl":"twenty-two", "en":"dwadzieścia dwa"},
+  {"pl":"twenty-three", "en":"dwadzieścia trzy"},
+  {"pl":"twenty-four", "en":"dwadzieścia cztery"},
+  {"pl":"twenty-five", "en":"dwadzieścia pięć"},
+  {"pl":"twenty-six", "en":"dwadzieścia sześć"},
+  {"pl":"twenty-seven", "en":"dwadzieścia siedem"},
+  {"pl":"twenty-eight", "en":"dwadzieścia osiem"},
+  {"pl":"twenty-nine", "en":"dwadzieścia dziewięć"},
+  {"pl":"thirty", "en":"trzydzieści"},
+  {"pl":"thirty-one", "en":"trzydzieści jeden"},
+  {"pl":"thirty-two", "en":"trzydzieści dwa"},
+  {"pl":"thirty-three", "en":"trzydzieści trzy"},
+  {"pl":"thirty-four", "en":"trzydzieści cztery"},
+  {"pl":"thirty-five", "en":"trzydzieści pięć"},
+  {"pl":"thirty-six", "en":"trzydzieści sześć"},
+  {"pl":"thirty-seven", "en":"trzydzieści siedem"},
+  {"pl":"thirty-eight", "en":"trzydzieści osiem"},
+  {"pl":"thirty-nine", "en":"trzydzieści dziewięć"},
+  {"pl":"forty", "en":"czterdzieści"},
+  {"pl":"forty-one", "en":"czterdzieści jeden"},
+  {"pl":"forty-two", "en":"czterdzieści dwa"},
+  {"pl":"forty-three", "en":"czterdzieści trzy"},
+  {"pl":"forty-four", "en":"czterdzieści cztery"},
+  {"pl":"forty-five", "en":"czterdzieści pięć"},
+  {"pl":"forty-six", "en":"czterdzieści sześć"},
+  {"pl":"forty-seven", "en":"czterdzieści siedem"},
+  {"pl":"forty-eight", "en":"czterdzieści osiem"},
+  {"pl":"forty-nine", "en":"czterdzieści dziewięć"},
+  {"pl":"fifty", "en":"pięćdziesiąt"},
+  {"pl":"fifty-one", "en":"pięćdziesiąt jeden"},
+  {"pl":"fifty-two", "en":"pięćdziesiąt dwa"},
+  {"pl":"fifty-three", "en":"pięćdziesiąt trzy"},
+  {"pl":"fifty-four", "en":"pięćdziesiąt cztery"},
+  {"pl":"fifty-five", "en":"pięćdziesiąt pięć"},
+  {"pl":"fifty-six", "en":"pięćdziesiąt sześć"},
+  {"pl":"fifty-seven", "en":"pięćdziesiąt siedem"},
+  {"pl":"fifty-eight", "en":"pięćdziesiąt osiem"},
+  {"pl":"fifty-nine", "en":"pięćdziesiąt dziewięć"},
+  {"pl":"sixty", "en":"sześćdziesiąt"},
+  {"pl":"sixty-one", "en":"sześćdziesiąt jeden"},
+  {"pl":"sixty-two", "en":"sześćdziesiąt dwa"},
+  {"pl":"sixty-three", "en":"sześćdziesiąt trzy"},
+  {"pl":"sixty-four", "en":"sześćdziesiąt cztery"},
+  {"pl":"sixty-five", "en":"sześćdziesiąt pięć"},
+  {"pl":"sixty-six", "en":"sześćdziesiąt sześć"},
+  {"pl":"sixty-seven", "en":"sześćdziesiąt siedem"},
+  {"pl":"sixty-eight", "en":"sześćdziesiąt osiem"},
+  {"pl":"sixty-nine", "en":"sześćdziesiąt dziewięć"},
+  {"pl":"seventy", "en":"siedemdziesiąt"},
+  {"pl":"seventy-one", "en":"siedemdziesiąt jeden"},
+  {"pl":"seventy-two", "en":"siedemdziesiąt dwa"},
+  {"pl":"seventy-three", "en":"siedemdziesiąt trzy"},
+  {"pl":"seventy-four", "en":"siedemdziesiąt cztery"},
+  {"pl":"seventy-five", "en":"siedemdziesiąt pięć"},
+  {"pl":"seventy-six", "en":"siedemdziesiąt sześć"},
+  {"pl":"seventy-seven", "en":"siedemdziesiąt siedem"},
+  {"pl":"seventy-eight", "en":"siedemdziesiąt osiem"},
+  {"pl":"seventy-nine", "en":"siedemdziesiąt dziewięć"},
+  {"pl":"eighty", "en":"osiemdziesiąt"},
+  {"pl":"eighty-one", "en":"osiemdziesiąt jeden"},
+  {"pl":"eighty-two", "en":"osiemdziesiąt dwa"},
+  {"pl":"eighty-three", "en":"osiemdziesiąt trzy"},
+  {"pl":"eighty-four", "en":"osiemdziesiąt cztery"},
+  {"pl":"eighty-five", "en":"osiemdziesiąt pięć"},
+  {"pl":"eighty-six", "en":"osiemdziesiąt sześć"},
+  {"pl":"eighty-seven", "en":"osiemdziesiąt siedem"},
+  {"pl":"eighty-eight", "en":"osiemdziesiąt osiem"},
+  {"pl":"eighty-nine", "en":"osiemdziesiąt dziewięć"},
+  {"pl":"ninety", "en":"dziewięćdziesiąt"},
+  {"pl":"ninety-one", "en":"dziewięćdziesiąt jeden"},
+  {"pl":"ninety-two", "en":"dziewięćdziesiąt dwa"},
+  {"pl":"ninety-three", "en":"dziewięćdziesiąt trzy"},
+  {"pl":"ninety-four", "en":"dziewięćdziesiąt cztery"},
+  {"pl":"ninety-five", "en":"dziewięćdziesiąt pięć"},
+  {"pl":"ninety-six", "en":"dziewięćdziesiąt sześć"},
+  {"pl":"ninety-seven", "en":"dziewięćdziesiąt siedem"},
+  {"pl":"ninety-eight", "en":"dziewięćdziesiąt osiem"},
+  {"pl":"ninety-nine", "en":"dziewiędziesiąt dziewięć"},
+  {"pl":"one hundred", "en":"sto"},
+  {"pl":"two hundred", "en":"sto jeden"},
+  {"pl":"one thousand", "en":"tysiąc"},
+  {"pl":"ten thousand", "en":"dziesięć tysięcy"},
+  {"pl":"one hundred thousand", "en":"sto tysięcy"},
+  {"pl":"one million", "en":"milion"},
+  {"pl":"ten million", "en":"dziesięć milionów"},
+  {"pl":"good morning", "en":"dzień dobry"},
+  {"pl":"how are you", "en":"jak się masz"},
+  {"pl":"nice to see you", "en":"miło cię widzieć"},
+  {"pl":"to listen", "en":"sluchać"},
+  {"pl":"to read", "en":"czytać"},
+  {"pl":"to look", "en":"patrzyć"},
+  {"pl":"to write", "en":"pisać"},
+  {"pl":"to think", "en":"myśleć"},
+  {"pl":"to repeat", "en":"powtarzać"},
+  {"pl":"to copy", "en":"przepisywać"},
+  {"pl":"to correct", "en":"poprawiać"},
+  {"pl":"to color", "en":"kolorować"},
+  {"pl":"to cut", "en":"ciąć"},
+  {"pl":"open the book", "en":"otwórz książkę"},
+  {"pl":"close the book", "en":"zamknij książkę"},
+  {"pl":"in the morning", "en":"rano"},
+  {"pl":"go to school", "en":"idź do szkoły"},
+  {"pl":"breakfast", "en":"śniadanie"},
+  {"pl":"eat breakfast", "en":"zjedz śniadanie"},
+  {"pl":"wash hands", "en":"umyj ręce"},
+  {"pl":"teeth", "en":"zęby"},
+  {"pl":"brush teeth", "en":"umyj zęby"},
+  {"pl":"books", "en":"książki"},
+  {"pl":"pack books", "en":"zapakuj książki"},
+  {"pl":"school bag", "en":"plecak"},
+  {"pl":"pack school bag", "en":"zapakuj plecak"},
+  {"pl":"school bus", "en":"autobus szkolny"},
+  {"pl":"catch a bus", "en":"złap autobus"},
+  {"pl":"go to school", "en":"idź do szkoły"},
+  {"pl":"get dressed", "en":"ubierz się"},
+  {"pl":"clothes", "en":"ubrania"},
+  {"pl":"put on the clothes", "en":"załóż ubrania"},
+  {"pl":"wash your hands please", "en":"umyj ręce proszę"},
+  {"pl":"brush your teeth please", "en":"umyj zęby proszę"},
+  {"pl":"let's go to school", "en":"chodźmy do szkoły"},
+  {"pl":"thank you", "en":"dziękuję"},
+  {"pl":"good bye", "en":"do widzenia"},
+  {"pl":"see you", "en":"do zobaczenia"},
+  {"pl":"piórnik", "en":"pencil case"}
 ]
