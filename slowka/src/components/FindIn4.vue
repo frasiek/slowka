@@ -25,7 +25,7 @@ export default {
       return Math.floor(Math.random() * (max - min + 1) + min);
     },
     otherLang: function () {
-      return this.lang === 'pl' ? 'en' : 'pl';
+      return (this.lang == 'pl' ? 'en' : 'pl');
     },
     findNext() {
       let rand = this.randomIntFromInterval(0, this.words.length - 1);
@@ -37,12 +37,14 @@ export default {
       this.alreadyMatched = word;
       tmpWords.splice(rand, 1);
       this.toFind = word[this.lang];
-      this.correct = word[this.otherLang()];
-      let anwsers = [word[this.otherLang()]];
+      let otherLang = this.otherLang();
+      this.correct = word[otherLang];
+      let anwsers = [word[otherLang]];
 
       for (let i = 0; i < 3; i++) {
         rand = this.randomIntFromInterval(0, tmpWords.length - 1);
-        anwsers.push(tmpWords[rand][this.otherLang()]);
+        anwsers.push(tmpWords[rand][otherLang]);
+        console.log(tmpWords, tmpWords[rand], rand, otherLang);
         tmpWords.splice(rand, 1);
       }
 
